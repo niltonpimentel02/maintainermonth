@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Maintainer Month 2026
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Xc049cC1eyI8cKAd0biC2
+SUMMARY:Open Source Friday - Welcome to Maintainer Month 2026
+DTSTAMP:20260426T140800Z
+DTSTART:20260501T150000Z
+DTEND:20260501T160000Z
+DESCRIPTION:Kicking off Maintainer Month 2026 with a special Open Source Fr
+	iday livestream on the GitHub YouTube channel.
+URL:https://www.youtube.com/watch?v=Ro_VMXWbLt8
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+UID:GOb6kPqoIA8noAsNZ8nnG
+SUMMARY:Rubber Duck Thursday: Maintainer Month Edition
+DTSTAMP:20260426T140800Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+DESCRIPTION:Live coding with maintainers as part of Maintainer Month 2026.
+URL:https://gh.io/rubberduckthursdays
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+UID:AS7SyD9zncssAU97QnM0K
+SUMMARY:Discussion: How should corporations support OSS maintainers?
+DTSTAMP:20260426T140800Z
+DTSTART:20260514T190000Z
+DTEND:20260514T200000Z
+DESCRIPTION:An open discussion on how corporations can support OSS maintain
+	ers\, including which programs work today\, how they can improve\, and wha
+	t is missing.
+URL:https://meet.google.com/asd-hucu-syf
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+UID:ESQCMizeBh3ss_nC6O4HK
+SUMMARY:Rubber Duck Thursday: Maintainer Month Edition
+DTSTAMP:20260426T140800Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+DESCRIPTION:Live coding with maintainers as part of Maintainer Month 2026.
+URL:https://gh.io/rubberduckthursdays
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+UID:eRel50CcDD4VhxS9SLX6v
+SUMMARY:Maintainers Summit at PyCon US
+DTSTAMP:20260426T140800Z
+DTSTART:20260516T183000Z
+DTEND:20260517T003000Z
+DESCRIPTION:The Maintainers Summit at PyCon US is where the Python communit
+	y comes together to discuss and foster best practices on how to develop su
+	stainable projects a...
+URL:https://us.pycon.org/2026/events/maintainers-summit/
+LOCATION:Long Beach\, USA
+END:VEVENT
+BEGIN:VEVENT
+UID:rC82zdI_z2et_scN-9xZg
+SUMMARY:Open Source Assistive Technology Hackathon
+DTSTAMP:20260426T140800Z
+DTSTART:20260521T090000Z
+DTEND:20260522T070000Z
+DESCRIPTION:A two-day hackathon focused on helping participants build skill
+	s and make contributions to open source assistive technology projects.
+URL:https://www.eventbrite.com/e/open-source-assistive-technology-hackathon
+	-tickets-1984064378967
+LOCATION:San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:shzU47mnGABaMZFNM5cWv
+SUMMARY:Rubber Duck Thursday: Maintainer Month Edition
+DTSTAMP:20260426T140800Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+DESCRIPTION:Live coding with maintainers as part of Maintainer Month 2026.
+URL:https://gh.io/rubberduckthursdays
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+UID:pyt6kG7K2yh4VRZ-CzY0C
+SUMMARY:Introducing Project Pods on For Good First Issue
+DTSTAMP:20260426T140800Z
+DTSTART:20260528T150000Z
+DTEND:20260528T153000Z
+DESCRIPTION:Open source nonprofits often struggle to get end to end project
+	s across the finish line. Complex work that requires coordination like bui
+	lding a new feature\,...
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+UID:UHc2DRyz_KQdzrEOpTT5A
+SUMMARY:Rubber Duck Thursday: Maintainer Month Edition
+DTSTAMP:20260426T140800Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DESCRIPTION:Live coding with maintainers as part of Maintainer Month 2026.
+URL:https://gh.io/rubberduckthursdays
+LOCATION:Virtual
+END:VEVENT
+END:VCALENDAR
